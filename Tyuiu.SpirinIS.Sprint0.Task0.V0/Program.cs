@@ -23,6 +23,8 @@ namespace Tyuiu.SpirinIS.Sprint0.Task0.V0
             var result = ds.Culc(x, y);
 
             Console.WriteLine("Результат X+Y = " + result);
+            Console.WriteLine("Результат X+Y = " + result);
+            Console.WriteLine("Результат X+Y = " + result);
 
             Console.ReadKey();
 
